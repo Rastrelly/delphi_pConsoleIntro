@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449429422"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiE:\Delphi\delphi_pConsoleIntro\lib\x86_64-win64 -FuE:\Delphi\delphi_pConsoleIntro\ -FUE:\Delphi\delphi_pConsoleIntro\lib\x86_64-win64\ -FEE:\Delphi\delphi_pConsoleIntro\ -oE:\Delphi\delphi_pConsoleIntro\pConsoleIntro.exe pConsoleIntro.lpr"/>
+</CONFIG>

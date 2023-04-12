@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ourfunctions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ourFunctions"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <Caret Line="5" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <Caret Line="22" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <Caret Line="36" Column="11" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <Caret Line="41" Column="65" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <Caret Line="6" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="pConsoleIntro.lpr"/>
+        <Caret Line="65" Column="40" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ourfunctions.pas"/>
+        <Caret Line="7" Column="46"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
